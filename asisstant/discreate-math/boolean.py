@@ -5,3 +5,5 @@ if(punya_pacar):
     print("Mundur mundur mundur")
 else:
     print("Maju maju maju")
+
+    jumlahPacar = -1
