@@ -1,0 +1,27 @@
+Fatih
+Arya Pratama
+Umar
+Kayla
+Wijdan
+Hadidan
+Kevin
+Farhan
+Fazle
+Raditya
+
+kelompok 1 : nomor 1 50% ada perubahan, nomor 2 on progress
+kelompok 2 : 1 dan 2 selesai
+kelompok 3 : nomor 1 ngulang dari awal 50%, nomor 2 nambahin beberapa 90%
+kelompok 4 : nomor 1 50%, nomor 2 50%
+kelompok 5 : nomor 1 70%, nomor mikirin input
+kelompok 6 : nomor 1 tinggal bikin codingan, nomor 2 kode udah 50%
+kelompok 7 : nomor 2 udah selesai mau tambahin dan dibikin kompleks lagi coba input csv + visualisasi, nomor 1 udah bikin enkripsi
+kelompok 8 : nomor 1 udah kelar, nomor 2 80%
+kelompok 9 : nomor 1 udah kelar, nomor 2 udah selesai tapi dikembangkan lagi
+kelompok 10 : nomor 1 90% tinggal input aja, nomor 2 ngerapihin algoritma quick sort fix database
+kelompok 11 : nomor 1 90% tinggal refactor dikit, nomor 2 udah aman
+kelompok 12 : nomor 1 80%, nomor 2 udah 70%
+kelompok 13 : udah semua tinggal rapihin ppt
+kelompok 14 : nomor 1 70% tinggal tambahin assetnya, nomor 2 udah jadi mau tambahin csv
+kelompok 15 : nomor 1 hampir selesai masukin dictionary, nomor 2 udah jadi tinggal dirapihin
+kelompok 16 : nomor 1 , nomor 2 ganti ide input jadi csv

@@ -1,0 +1,5 @@
+odometer_beginning_reading = float(input("Enter beginning odometer reading =>"))
+odometer_ending_reading = float(input("Enter ending odometer reading =>"))
+distance = float(abs(odometer_beginning_reading - odometer_ending_reading))
+fare = float(distance * 1.50)
+print("You travelled a distance of","{:.2f}".format(distance), "miles. At $1.50 per mile, your fare is","{:.2f}".format(fare))
