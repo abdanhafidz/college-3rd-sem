@@ -1,0 +1,7 @@
+.vscode/
+node_modules/
+.cph/
+aima-data/
+__pycache__/
+.venv/
+*.csv
